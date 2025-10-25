@@ -1,3 +1,5 @@
+#! /usr/bin/env.exe bash
+# inspired with https://github.com/compEng0001/tender-mintty?tab=readme-ov-file
 # for checking terminal colors settings
 printf "        "
 for b in 0 1 2 3 4 5 6 7; do printf "   4${b}m "; done
