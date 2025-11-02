@@ -1,4 +1,4 @@
-#! /usr/bin/env.exe bash
+#! /usr/bin/env bash
 # inspired with https://github.com/compEng0001/tender-mintty?tab=readme-ov-file
 # for checking terminal colors settings
 tmp="$(seq 0 7)" # 0 TO 7 INCLUSIVELY, read without "" to keep as separate words
