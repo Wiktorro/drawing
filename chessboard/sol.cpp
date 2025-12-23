@@ -8,4 +8,15 @@
 
 //
 
+
+
 //
+#define CHECK(x)
+
+
+int main(int argc, char const *argv[])
+{
+    CHECK(5);
+
+    return 0;
+}
